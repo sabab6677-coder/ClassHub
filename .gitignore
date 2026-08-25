@@ -1,0 +1,9 @@
+node_modules/
+android/
+dist/
+.DS_Store
+*.log
+npm-debug.log
+.gradle/
+.idea/
+*.jks
